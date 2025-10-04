@@ -1,0 +1,14 @@
+/home/aluno/Christian/c#/aula 2/bin/Debug/net8.0/aula 2
+/home/aluno/Christian/c#/aula 2/bin/Debug/net8.0/aula 2.deps.json
+/home/aluno/Christian/c#/aula 2/bin/Debug/net8.0/aula 2.runtimeconfig.json
+/home/aluno/Christian/c#/aula 2/bin/Debug/net8.0/aula 2.dll
+/home/aluno/Christian/c#/aula 2/bin/Debug/net8.0/aula 2.pdb
+/home/aluno/Christian/c#/aula 2/obj/Debug/net8.0/aula 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Christian/c#/aula 2/obj/Debug/net8.0/aula 2.AssemblyInfoInputs.cache
+/home/aluno/Christian/c#/aula 2/obj/Debug/net8.0/aula 2.AssemblyInfo.cs
+/home/aluno/Christian/c#/aula 2/obj/Debug/net8.0/aula 2.csproj.CoreCompileInputs.cache
+/home/aluno/Christian/c#/aula 2/obj/Debug/net8.0/aula 2.dll
+/home/aluno/Christian/c#/aula 2/obj/Debug/net8.0/refint/aula 2.dll
+/home/aluno/Christian/c#/aula 2/obj/Debug/net8.0/aula 2.pdb
+/home/aluno/Christian/c#/aula 2/obj/Debug/net8.0/aula 2.genruntimeconfig.cache
+/home/aluno/Christian/c#/aula 2/obj/Debug/net8.0/ref/aula 2.dll
