@@ -1,0 +1,14 @@
+/home/aluno/Christian/mercado/obj/Debug/net8.0/mercado.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Christian/mercado/obj/Debug/net8.0/mercado.AssemblyInfoInputs.cache
+/home/aluno/Christian/mercado/obj/Debug/net8.0/mercado.AssemblyInfo.cs
+/home/aluno/Christian/mercado/obj/Debug/net8.0/mercado.csproj.CoreCompileInputs.cache
+/home/aluno/Christian/mercado/bin/Debug/net8.0/mercado
+/home/aluno/Christian/mercado/bin/Debug/net8.0/mercado.deps.json
+/home/aluno/Christian/mercado/bin/Debug/net8.0/mercado.runtimeconfig.json
+/home/aluno/Christian/mercado/bin/Debug/net8.0/mercado.dll
+/home/aluno/Christian/mercado/bin/Debug/net8.0/mercado.pdb
+/home/aluno/Christian/mercado/obj/Debug/net8.0/mercado.dll
+/home/aluno/Christian/mercado/obj/Debug/net8.0/refint/mercado.dll
+/home/aluno/Christian/mercado/obj/Debug/net8.0/mercado.pdb
+/home/aluno/Christian/mercado/obj/Debug/net8.0/mercado.genruntimeconfig.cache
+/home/aluno/Christian/mercado/obj/Debug/net8.0/ref/mercado.dll
