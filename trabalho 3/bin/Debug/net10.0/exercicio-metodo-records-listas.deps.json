@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "exercicio-metodo-records-listas/1.0.0": {
+        "runtime": {
+          "exercicio-metodo-records-listas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio-metodo-records-listas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

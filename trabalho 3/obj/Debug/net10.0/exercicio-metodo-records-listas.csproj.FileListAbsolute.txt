@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\trabalho 3\bin\Debug\net10.0\exercicio-metodo-records-listas.exe
+C:\Users\User\Desktop\trabalho 3\bin\Debug\net10.0\exercicio-metodo-records-listas.deps.json
+C:\Users\User\Desktop\trabalho 3\bin\Debug\net10.0\exercicio-metodo-records-listas.runtimeconfig.json
+C:\Users\User\Desktop\trabalho 3\bin\Debug\net10.0\exercicio-metodo-records-listas.dll
+C:\Users\User\Desktop\trabalho 3\bin\Debug\net10.0\exercicio-metodo-records-listas.pdb
+C:\Users\User\Desktop\trabalho 3\obj\Debug\net10.0\exercicio-metodo-records-listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\trabalho 3\obj\Debug\net10.0\exercicio-metodo-records-listas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\trabalho 3\obj\Debug\net10.0\exercicio-metodo-records-listas.AssemblyInfo.cs
+C:\Users\User\Desktop\trabalho 3\obj\Debug\net10.0\exercicio-metodo-records-listas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\trabalho 3\obj\Debug\net10.0\exercicio-metodo-records-listas.dll
+C:\Users\User\Desktop\trabalho 3\obj\Debug\net10.0\refint\exercicio-metodo-records-listas.dll
+C:\Users\User\Desktop\trabalho 3\obj\Debug\net10.0\exercicio-metodo-records-listas.pdb
+C:\Users\User\Desktop\trabalho 3\obj\Debug\net10.0\exercicio-metodo-records-listas.genruntimeconfig.cache
+C:\Users\User\Desktop\trabalho 3\obj\Debug\net10.0\ref\exercicio-metodo-records-listas.dll
