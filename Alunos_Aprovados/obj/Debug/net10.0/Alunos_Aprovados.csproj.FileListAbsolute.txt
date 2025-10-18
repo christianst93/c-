@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\bin\Debug\net10.0\Alunos_Aprovados.exe
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\bin\Debug\net10.0\Alunos_Aprovados.deps.json
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\bin\Debug\net10.0\Alunos_Aprovados.runtimeconfig.json
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\bin\Debug\net10.0\Alunos_Aprovados.dll
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\bin\Debug\net10.0\Alunos_Aprovados.pdb
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\obj\Debug\net10.0\Alunos_Aprovados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\obj\Debug\net10.0\Alunos_Aprovados.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\obj\Debug\net10.0\Alunos_Aprovados.AssemblyInfo.cs
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\obj\Debug\net10.0\Alunos_Aprovados.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\obj\Debug\net10.0\Alunos_Aprovados.dll
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\obj\Debug\net10.0\refint\Alunos_Aprovados.dll
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\obj\Debug\net10.0\Alunos_Aprovados.pdb
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\obj\Debug\net10.0\Alunos_Aprovados.genruntimeconfig.cache
+C:\Users\User\Desktop\teste\c#\Alunos_Aprovados\obj\Debug\net10.0\ref\Alunos_Aprovados.dll
