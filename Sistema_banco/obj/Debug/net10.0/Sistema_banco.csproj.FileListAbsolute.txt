@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\teste\c#\Sistema_banco\bin\Debug\net10.0\Sistema_banco.exe
+C:\Users\User\Desktop\teste\c#\Sistema_banco\bin\Debug\net10.0\Sistema_banco.deps.json
+C:\Users\User\Desktop\teste\c#\Sistema_banco\bin\Debug\net10.0\Sistema_banco.runtimeconfig.json
+C:\Users\User\Desktop\teste\c#\Sistema_banco\bin\Debug\net10.0\Sistema_banco.dll
+C:\Users\User\Desktop\teste\c#\Sistema_banco\bin\Debug\net10.0\Sistema_banco.pdb
+C:\Users\User\Desktop\teste\c#\Sistema_banco\obj\Debug\net10.0\Sistema_banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\teste\c#\Sistema_banco\obj\Debug\net10.0\Sistema_banco.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\teste\c#\Sistema_banco\obj\Debug\net10.0\Sistema_banco.AssemblyInfo.cs
+C:\Users\User\Desktop\teste\c#\Sistema_banco\obj\Debug\net10.0\Sistema_banco.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\teste\c#\Sistema_banco\obj\Debug\net10.0\Sistema_banco.dll
+C:\Users\User\Desktop\teste\c#\Sistema_banco\obj\Debug\net10.0\refint\Sistema_banco.dll
+C:\Users\User\Desktop\teste\c#\Sistema_banco\obj\Debug\net10.0\Sistema_banco.pdb
+C:\Users\User\Desktop\teste\c#\Sistema_banco\obj\Debug\net10.0\Sistema_banco.genruntimeconfig.cache
+C:\Users\User\Desktop\teste\c#\Sistema_banco\obj\Debug\net10.0\ref\Sistema_banco.dll
