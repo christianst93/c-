@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\bin\Debug\net10.0\Gestor_pedidos.exe
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\bin\Debug\net10.0\Gestor_pedidos.deps.json
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\bin\Debug\net10.0\Gestor_pedidos.runtimeconfig.json
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\bin\Debug\net10.0\Gestor_pedidos.dll
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\bin\Debug\net10.0\Gestor_pedidos.pdb
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\obj\Debug\net10.0\Gestor_pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\obj\Debug\net10.0\Gestor_pedidos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\obj\Debug\net10.0\Gestor_pedidos.AssemblyInfo.cs
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\obj\Debug\net10.0\Gestor_pedidos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\obj\Debug\net10.0\Gestor_pedidos.dll
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\obj\Debug\net10.0\refint\Gestor_pedidos.dll
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\obj\Debug\net10.0\Gestor_pedidos.pdb
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\obj\Debug\net10.0\Gestor_pedidos.genruntimeconfig.cache
+C:\Users\User\Desktop\teste\c#\Gestor_pedidos\obj\Debug\net10.0\ref\Gestor_pedidos.dll
