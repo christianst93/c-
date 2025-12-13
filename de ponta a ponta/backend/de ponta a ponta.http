@@ -1,0 +1,6 @@
+@de_ponta_a_ponta_HostAddress = http://localhost:5161
+
+GET {{de_ponta_a_ponta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

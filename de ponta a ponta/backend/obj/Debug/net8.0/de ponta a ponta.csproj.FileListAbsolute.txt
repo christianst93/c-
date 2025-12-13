@@ -1,0 +1,65 @@
+/home/aluno/Christian/Csharp-main/de ponta a ponta/bin/Debug/net8.0/appsettings.Development.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/bin/Debug/net8.0/appsettings.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/bin/Debug/net8.0/de ponta a ponta
+/home/aluno/Christian/Csharp-main/de ponta a ponta/bin/Debug/net8.0/de ponta a ponta.deps.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/bin/Debug/net8.0/de ponta a ponta.runtimeconfig.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/bin/Debug/net8.0/de ponta a ponta.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/bin/Debug/net8.0/de ponta a ponta.pdb
+/home/aluno/Christian/Csharp-main/de ponta a ponta/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/de ponta a ponta.csproj.AssemblyReference.cache
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/de ponta a ponta.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/de ponta a ponta.AssemblyInfoInputs.cache
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/de ponta a ponta.AssemblyInfo.cs
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/de ponta a ponta.csproj.CoreCompileInputs.cache
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/de ponta a ponta.MvcApplicationPartsAssemblyInfo.cs
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/de ponta a ponta.MvcApplicationPartsAssemblyInfo.cache
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/staticwebassets.build.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/staticwebassets.development.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/staticwebassets/msbuild.de ponta a ponta.Microsoft.AspNetCore.StaticWebAssets.props
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/staticwebassets/msbuild.build.de ponta a ponta.props
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.de ponta a ponta.props
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.de ponta a ponta.props
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/staticwebassets.pack.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/scopedcss/bundle/de ponta a ponta.styles.css
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/de ponta.AE57391D.Up2Date
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/de ponta a ponta.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/refint/de ponta a ponta.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/de ponta a ponta.pdb
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/de ponta a ponta.genruntimeconfig.cache
+/home/aluno/Christian/Csharp-main/de ponta a ponta/obj/Debug/net8.0/ref/de ponta a ponta.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/appsettings.Development.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/appsettings.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/de ponta a ponta
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/de ponta a ponta.deps.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/de ponta a ponta.runtimeconfig.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/de ponta a ponta.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/de ponta a ponta.pdb
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/de ponta a ponta.csproj.AssemblyReference.cache
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/de ponta a ponta.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/de ponta a ponta.AssemblyInfoInputs.cache
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/de ponta a ponta.AssemblyInfo.cs
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/de ponta a ponta.csproj.CoreCompileInputs.cache
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/de ponta a ponta.MvcApplicationPartsAssemblyInfo.cs
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/de ponta a ponta.MvcApplicationPartsAssemblyInfo.cache
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/staticwebassets.build.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/staticwebassets.development.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/staticwebassets/msbuild.de ponta a ponta.Microsoft.AspNetCore.StaticWebAssets.props
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/staticwebassets/msbuild.build.de ponta a ponta.props
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.de ponta a ponta.props
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.de ponta a ponta.props
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/staticwebassets.pack.json
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/scopedcss/bundle/de ponta a ponta.styles.css
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/de ponta.AE57391D.Up2Date
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/de ponta a ponta.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/refint/de ponta a ponta.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/de ponta a ponta.pdb
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/de ponta a ponta.genruntimeconfig.cache
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/obj/Debug/net8.0/ref/de ponta a ponta.dll
+/home/aluno/Christian/Csharp-main/de ponta a ponta/backend/bin/Debug/net8.0/Npgsql.dll
